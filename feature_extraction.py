@@ -19,7 +19,6 @@ def build_feature_extractor():
 
     return model
 
-
 # Load data for feature extraction
 def load_data(username):
     x, y = [], []
